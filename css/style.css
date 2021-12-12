@@ -89,15 +89,6 @@ h3{
     font-size: 48px;
     margin: 34px 0;
     font-family: "BPG Nino Mtavruli", sans-serif;
-
-}
-.boxp{
-    margin: 0ex;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%);
 }
 .meoregverdi{
     margin-left: 30px;
@@ -108,7 +99,6 @@ h3{
     margin: 0px;
     padding-top: 6px;
     font-family: "BPG Nino Mtavruli", sans-serif;
-    transform:translateY(-35px);
 }
 .gverdi2{
     margin: 23px 0;
