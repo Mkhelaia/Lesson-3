@@ -40,9 +40,7 @@ header{
 .fb{
     height: 30px;
     display: inline-block;
-    border-right: 2px solid #363E97;
     padding-right: 20px;
-    
 }
 .youtube{
     height: 30px;
@@ -119,4 +117,9 @@ h3{
 }
 main{
     margin-left: 30px;
+}
+.gamyofi{
+    height: 30px;
+    display: inline-block;
+    border-right: 2px solid #363E97;
 }
