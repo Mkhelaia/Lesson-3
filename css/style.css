@@ -1,4 +1,4 @@
-@import url("//cdn.web-fonts.ge/fonts/bpg-ingiri-arial/css/bpg-ingiri-arial.min.css");
+/* @import url("//cdn.web-fonts.ge/fonts/bpg-ingiri-arial/css/bpg-ingiri-arial.min.css"); */
 header{
     margin-left: 30px;
 }
@@ -89,8 +89,8 @@ h3{
     color: #FFFFFF;
     width: 56px;
     height: 56px;
-    font-size: 56px;
-    margin: 32px 0;
+    font-size: 52px;
+    margin: 34px 0;
 }
 .meoregverdi{
     margin-left: 30px;
@@ -98,11 +98,12 @@ h3{
 .maisi{
     font-size: 22px;
     color: #3D58A6;
-    margin-bottom: 12pz;
+    margin: 0px;
+    padding-top: 6px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .gverdi2{
     margin: 23px 0;
-    font-size: 20;
     color: #000000;
     font-family: "BPG Nino Mtavruli", sans-serif;
 }
